@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Raktim Mitra</h1>
-<h3 align="center">A Full Stack Web Developer from Kolkata, India</h3>
+<h1 align="left">Hi 👋, I'm Raktim Mitra</h1>
+<h3 align="left">A Full Stack Web Developer from Kolkata, India</h3>
 
----
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-Mitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -31,11 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
 </div>
 
----
+
 
 ## 📫 Contact Me
 
-<div align="center">
+<div align="left">
   <a href="mitraraktim294@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -44,23 +48,8 @@
   </a>
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raktim-Mitra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
----
 
-## 🧭 Visitor Count
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Raktim-Mitra&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
-
----
 
